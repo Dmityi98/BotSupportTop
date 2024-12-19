@@ -19,7 +19,7 @@ namespace TelegramBot
 
         static async Task Main()
         {
-            _botClient = new TelegramBotClient("8182465060:AAGHEWkAPvea4uMr0tFykj7rcUP0cfW_rPs"); // Токен телеграмм бота 
+            _botClient = new TelegramBotClient("Token"); // Токен телеграмм бота 
 
             _receiverOptions = new ReceiverOptions 
             {
