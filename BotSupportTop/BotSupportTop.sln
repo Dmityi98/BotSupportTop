@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotSupportTop", "BotSupportTop\BotSupportTop.csproj", "{6C563BCB-2035-42E4-9961-52CF3D1CAD61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportFileExel", "ImportFileExel\ImportFileExel.csproj", "{81725CDF-5FAD-459A-8E8E-3873BCBEACC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6C563BCB-2035-42E4-9961-52CF3D1CAD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C563BCB-2035-42E4-9961-52CF3D1CAD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C563BCB-2035-42E4-9961-52CF3D1CAD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81725CDF-5FAD-459A-8E8E-3873BCBEACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81725CDF-5FAD-459A-8E8E-3873BCBEACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81725CDF-5FAD-459A-8E8E-3873BCBEACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81725CDF-5FAD-459A-8E8E-3873BCBEACC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
